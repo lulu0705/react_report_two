@@ -1,3 +1,14 @@
+首頁  pages/Home\
+服務項目 pages/Index\
+詳細內容頁 pages/Product\
+預約頁 pages/Reserve\
+預約成功頁 pages/ResultPage\
+意見回饋頁 pages/Feedback
+
+路由routes  app.js\
+css都在 app.css
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
